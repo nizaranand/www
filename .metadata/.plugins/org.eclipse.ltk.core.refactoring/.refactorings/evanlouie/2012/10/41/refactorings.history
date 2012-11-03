@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;evanlouie/notes/CPSC313 - Memory.md&apos; to &apos;cpsc313memory.md&apos;" description="Rename resource &apos;CPSC313 - Memory.md&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="notes/CPSC313 - Memory.md" name="cpsc313memory.md" stamp="1349798075172" updateReferences="true"/>
+</session>

@@ -1,0 +1,21 @@
+#CPSC313 - Memory
+
+##Static Ram
+- Expensive but fast
+- Retains value as long as power is present (ala static)
+
+##Dynamic Ram
+- Slower
+- Values must be refreshed periodically (ala dynamic)
+- Much more power efficient
+
+##Rules of Thumb
+- Bigger means slower
+- On chip -> Faster
+- Off chip -> Slower, but much bigger
+
+#Cache Memory
+- Contains a copy of a subset of a larger dataset
+
+##Example:
+- L1,L2,L3 cache in processor
